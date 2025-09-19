@@ -1,45 +1,42 @@
-# 👨‍💻 Kerem Türközü
-
-**iOS Developer | Swift & SwiftUI | Software Engineering Graduate Student**
+# 👨‍💻 Kerem Türközü — MSc. Software Engineer
 
 ---
 
-## 📝 Professional Summary
+## Summary
 
-Motivated **iOS Developer** with hands-on experience in **Swift, SwiftUI, and UIKit**, specialized in building and publishing mobile applications to the App Store.  
-Strong foundation in **software engineering** with a background in **Management Information Systems** and currently pursuing a **Master’s in Software Engineering at Hacettepe University**.  
+While pursuing my **Master’s in Software Engineering**, I develop versatile software solutions across **mobile, web, and embedded systems**.  
+Through my multidisciplinary experience, I focus on building projects that prioritize **reliability, performance, and sustainability**.  
 
-Published multiple apps (e.g., *Find My Car*, *Parked Here*) with a focus on **usability, performance, and App Store Optimization (ASO)**.  
-Actively sharing knowledge via **Medium articles** and building a global developer presence on **GitHub and LinkedIn**.  
+I have **2 years of hands-on experience in iOS development** (Swift, SwiftUI, UIKit) and contributed to a **defense industry stock tracking system** using **.NET Core, Angular, and MSSQL**. Additionally, I have experience in **Python** for data processing, machine learning, automation, and algorithm design.  
 
-Looking for opportunities to contribute as an **iOS Developer**, leveraging technical expertise and entrepreneurial mindset to deliver impactful mobile solutions.
+Proficient in **modern software development practices** (Clean Architecture, MVVM, CI/CD, Agile/Scrum), I can quickly adapt to different technology stacks. With **15+ published iOS applications on the App Store** and **100+ technical articles on Medium**, I continue to contribute actively to the software ecosystem.  
 
----
-
-## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/keremturkozu/)  
-- [Medium](https://medium.com/@keremturkozu)  
-- [GitHub](https://github.com/keremturkozu)  
-- [Email](mailto:keremturkozu@gmail.com)  
+As a **motivated, adaptive, and open-to-learning developer**, my goal is to bring value to critical projects while keeping up with emerging technologies.  
 
 ---
 
 ## 🛠️ Skills
 
 **Languages**  
-- Swift, SwiftUI, UIKit  
-- Objective-C (basic)  
-- Python  
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)  
+![SwiftUI](https://img.shields.io/badge/SwiftUI-02569B?logo=swift&logoColor=white)  
+![UIKit](https://img.shields.io/badge/UIKit-0A84FF?logo=apple&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 
 **Frameworks & Tools**  
-- Xcode, CoreData, Firebase, AWS  
-- Git & GitHub  
-- Agile/Scrum methodologies  
-
-**Other**  
-- App Store Optimization (ASO)  
-- In-App Purchases & Subscriptions  
-- Technical writing on Medium & LinkedIn  
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)  
+![CoreData](https://img.shields.io/badge/CoreData-3DDC84?logo=apple&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?logo=githubactions&logoColor=white)  
+![Agile](https://img.shields.io/badge/Agile-2496ED?logo=trello&logoColor=white)  
+![Scrum](https://img.shields.io/badge/Scrum-2C3E50?logo=jira&logoColor=white)  
 
 ---
 
@@ -58,3 +55,10 @@ Looking for opportunities to contribute as an **iOS Developer**, leveraging tech
 - Gain expertise in **mobile product development and growth**  
 
 ---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremturkozu/)  
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@keremturkozu)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/keremturkozu)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:keremturkozu@gmail.com)  
