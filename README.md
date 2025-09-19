@@ -70,7 +70,7 @@ As a **motivated, adaptive, and open-to-learning developer**, my goal is to brin
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keremturkozu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@keremturkozu"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" /></a>
+  <a href="[https://medium.com/@keremturkozu](https://medium.com/@turkozukerem)"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" /></a>
   <a href="https://github.com/keremturkozu"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="mailto:keremturkozu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:turkozukerem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 </p>
